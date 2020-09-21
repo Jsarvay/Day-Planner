@@ -71,7 +71,7 @@ $(document).ready(function(){
             $(".five").addClass("past");
         }
     }
-
+    //run on start up to check the current time and change colors accordingly
     checkHour();
 
     //collect user submitted info from the textareas and submit them to local storage

@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Grenze Gotisch', cursive;
   font-size: 16px;
   line-height: 1;
   background-image: linear-gradient(to right, black, darkslategray);}
@@ -47,7 +47,7 @@ textarea{
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: slategray;
   color: white;
   height: 100px;
   text-align: center;
